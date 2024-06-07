@@ -8,7 +8,7 @@ import { FCollapse } from 'components/FCollapse'
 ![TTSBF1](./img/TTSBF1.jpg)
 
 
-![TTSBF2](./img/TTSBF2.jpg)
+![TTSBF2](./img/TTSBF2.png)
 
 
 2.来到触发器编辑界面，选择任意触发器文件，可以看到右侧滚动条右键菜单中的ECA缩略图，并且可以通过右键点击来进行一些设置更改。
