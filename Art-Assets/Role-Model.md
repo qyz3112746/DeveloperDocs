@@ -30,7 +30,7 @@ import { FCollapse } from 'components/FCollapse'
 
 ![A19](./pic/A19.png)
 
-在选择了角色后，您还可以点击[属性编辑](../Navigation/Main_interface/Tool_Palette)左下角的**编辑对象**，然后在[物体编辑器](../Navigation/Object_Editor/Interface)中设置角色。
+在选择了角色后，您还可以点击[属性编辑](../Navigation/Main_interface/Tool_Palette)中的**编辑对象**，然后在[物体编辑器](../Navigation/Object_Editor/Interface)中设置角色。
 
 ![A20](./pic/A20.png)
 
