@@ -1,7 +1,7 @@
 import { Callout } from 'codesandbox-theme-docs'
 import { FCollapse } from 'components/FCollapse'
 
-# 多场景
+# 项目管理
 
 多场景功能为制作剧情驱动的线性关卡提供便利、以及为orpg等大地图类型的游戏提供降低内存压力的手段。
 

@@ -40,6 +40,12 @@ import { FCollapse } from 'components/FCollapse'
 注意：您可以通过[战争阴影](../../guides/getting-started/game-rule#战争阴影)中的**模型渲染距离**来设置游戏运行时的最大镜头距离。
 </Callout>
 
+## UI
+
+您可以设置界面编辑器的各种属性
+
+![P7-P8](./img/P7-P8.png)
+
 
 ## 编辑设置
 
